@@ -4,6 +4,8 @@ An interactive history map of **Swisshelm Park**, Pittsburgh, Pennsylvania, with
 
 **Open the map:** https://0xguy07.github.io/swisshelm-park-history/
 
+Next door: the [Frick Park History Map](https://0xguy07.github.io/frick-park-history/).
+
 ## What's on it
 
 - **Historical photographs** (1907–2004), each placed at its estimated camera position with a direction arrow and a link to Street View today.
